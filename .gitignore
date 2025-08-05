@@ -15,8 +15,6 @@ __pycache__/
 notebooks/.ipynb_checkpoints/
 
 # Output and temporary files
-images/output/
-output/
 *.log
 *.tmp
 
