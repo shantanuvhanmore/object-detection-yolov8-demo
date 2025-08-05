@@ -123,11 +123,22 @@ Or in a notebook:
 
 ## 📸 Sample Output
 
-| Input Image                        | Detection Output                            |
-| ---------------------------------- | ------------------------------------------- |
-| ![input](images/input/sample1.jpg) | ![output](images/output/sample1_output.jpg) |
+<h2>📸 Sample Output</h2>
 
-> You can replace these with your actual input/output screenshots after testing.
+<table>
+  <thead>
+    <tr>
+      <th>Input Image</th>
+      <th>Detection Output</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="images/input/sample1.jpg" alt="Input" width="300"/></td>
+      <td><img src="images/output/sample1_output.jpg" alt="Output" width="300"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
