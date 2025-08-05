@@ -1,4 +1,3 @@
-```md
 # 🦾 YOLOv8 Object Detection Demo
 
 This beginner-friendly project demonstrates how to perform object detection on local images using [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics). It includes both a Jupyter Notebook for interactive experimentation and a command-line script for quick testing.
